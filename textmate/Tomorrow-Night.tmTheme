@@ -29,7 +29,7 @@
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
-			<string>comment</string>
+			<string>comment, meta.block-level.markdown, meta.paragraph.markdown, meta.paragraph.list.markdown, string.other.link.title.markdown, markup.list.unnumbered.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
